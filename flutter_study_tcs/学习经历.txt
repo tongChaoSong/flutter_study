@@ -1,0 +1,8 @@
+
+缩进代码__CODE__(代码格式):
+视窗
+Ctrl+ Alt+L
+苹果电脑:
+Option+ Command+L
+
+已安装cocopods无法使用时在cmd上输入：open /Applications/Android\ Studio.app
