@@ -6,3 +6,21 @@ Ctrl+ Alt+L
 Option+ Command+L
 
 已安装cocopods无法使用时在cmd上输入：open /Applications/Android\ Studio.app
+
+
+
+$ pod --version
+1.9.3
+
+$ which pod
+/Users/user/.rbenv/shims/pod
+
+$  which gem
+/Users/user/.rbenv/shims/gem
+
+$  which ruby
+/Users/user/.rbenv/shims/ruby
+
+//进入当前目录下
+flutter build ios --simulator
+flutter run
